@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Group Members
+title: Resume
 permalink: /people/
 ---
 
-Include information about current and past group members here. 
+[Alex Zambrano's Resume](https://drive.google.com/file/d/1FBMh3HbTtpCkFScBP_5q-5eUiU-OG6nb/view?usp=sharing) 

@@ -1,5 +1,4 @@
 ---
 layout: post
 title: Welcome!
----
-You can change the title above if you want to and then write your content.  
+---Welcome to Alex Zambrano's Website! Click around on the different tabs to learn more about Alex.
